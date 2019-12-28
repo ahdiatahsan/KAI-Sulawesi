@@ -1,0 +1,12 @@
+body {
+    background : #FBFBFB;
+}
+
+/*todo Login page*/
+.marginatas {
+    margin-top : 10%;
+}
+
+thead > tr > th {
+    text-align : center;
+}

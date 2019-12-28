@@ -1,0 +1,66 @@
+/*todo body*/
+html {
+    min-height : 100%;
+    position   : relative;
+}
+
+body {
+    background-color : #F6F6F6;
+    margin-bottom    : 120px;
+}
+
+/*todo login.php bootstrap*/
+.jumbotron {
+    background-color : #EEEEEE;
+    padding          : 20px 10px;
+}
+
+.card-header {
+    background-color : #2196F3;
+    color            : white;
+}
+
+.card {
+    background-color : #FCFCFC;
+    box-shadow       : 0px 6px 0px #2196F3;
+    margin           : 15px 10px;
+}
+
+.card:hover {
+    border-color : #2196F3;
+}
+
+.inputHeader {
+    background-color : #2196F3 !important;
+    border-style     : none;
+    color            : white;
+    font-size        : large;
+    padding-bottom   : 0;
+    padding-left     : 25px;
+    padding-top      : 0;
+}
+
+.inputDetail {
+    background-color : white !important;
+    border-style     : none;
+    color            : #212121;
+    font-size        : medium;
+    padding          : 0 0;
+}
+
+/*todo form pesantiket*/
+.padding15px {
+    padding : 15px;
+}
+
+/*todo footer*/
+.footer {
+    background-color : #212121;
+    bottom           : 0;
+    color            : #F5F5F5;
+    height           : 60px;
+    /* Set the fixed height of the footer here */
+    line-height      : 60px;
+    position         : absolute; /* Vertically center the text there */
+    width            : 100%;
+}
